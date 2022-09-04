@@ -1,0 +1,29 @@
+{
+  "id": "2dcc6b1c-9da1-4f7c-90dd-ac4a320b605b",
+  "name": "VehicleExt2",
+  "publisher": "Keith How",
+  "version": "1.0.0.0",
+  "brief": "Vehicle Extension 2",
+  "description": "Vehicle Extension 2",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 51800,
+      "to": 51899
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}

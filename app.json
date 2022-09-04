@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies":[
+    {
+      "id": "29f7dc76-12f4-4c00-843e-3d1be79676cb",
+      "name": "Vehicle",
+      "publisher": "Keith How",
+      "version": "1.0.0.2"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "20.0.0.0",

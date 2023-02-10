@@ -10,6 +10,7 @@ pageextension 51800 "KNH Vehicle Card" extends "KNH Vehicle Card"
             field("KNH Test"; Rec."KNH Test")
             {
                 ApplicationArea = All;
+                Caption = 'KNH Test';
                 ToolTip = 'KNH Test';
             }
         }

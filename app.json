@@ -3,13 +3,13 @@
   "name": "VehicleExt2",
   "publisher": "Keith How",
   "version": "1.0.0.0",
-  "brief": "Vehicle Extension 2",
-  "description": "Vehicle Extension 2",
+  "brief": "Business Central Development Extension Testing.",
+  "description": "Business Central Development Extension Testing.",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "",
+  "logo": "./logo/KNH.jpg",
   "dependencies":[
     {
       "id": "29f7dc76-12f4-4c00-843e-3d1be79676cb",

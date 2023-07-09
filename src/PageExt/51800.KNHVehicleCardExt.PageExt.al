@@ -1,7 +1,7 @@
 /// <summary>
 /// PageExtension KNH Customer Card (ID 51800) extends Record Customer Card.
 /// </summary>
-pageextension 51800 "KNH Vehicle Card" extends "KNH Vehicle Card"
+pageextension 51800 "KNHVehicleCardExt" extends "KNHVehicleCard"
 {
     layout
     {

@@ -2,7 +2,7 @@
   "id": "2dcc6b1c-9da1-4f7c-90dd-ac4a320b605b",
   "name": "VehicleExt2",
   "publisher": "Keith How",
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "brief": "Business Central Development Extension Testing.",
   "description": "Business Central Development Extension Testing.",
   "privacyStatement": "",
@@ -15,7 +15,7 @@
       "id": "29f7dc76-12f4-4c00-843e-3d1be79676cb",
       "name": "Vehicle",
       "publisher": "Keith How",
-      "version": "1.0.0.2"
+      "version": "1.0.0.3"
     }
   ],
   "screenshots": [],
@@ -29,8 +29,8 @@
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
   },
   "runtime": "9.0"
 }

@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[],"Removed":[{"Id":51800,"Kind":17,"Name":"KNH Vehicle Ext"}]}
+﻿{"Added":[],"Modified":[{"Id":51800,"Kind":16,"Name":"KNHVehicleCardExt","Namespace":""},{"Id":51800,"Kind":17,"Name":"KNH Vehicle Ext"}],"Removed":[{"Id":51801,"Kind":26,"Name":"KNHVehicle2","Namespace":"KNHVehicle2"},{"Id":51800,"Kind":26,"Name":"GeneratedPermission","Namespace":"KNHVehicle2"}]}

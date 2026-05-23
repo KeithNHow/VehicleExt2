@@ -2,6 +2,7 @@
 /// TableExtension KNH Vehicle (ID 51800) extends record Vehicle.
 /// </summary>
 namespace KNHVehicleExt2;
+using KNHVehicle;
 
 tableextension 51800 KNHVehicleExt extends KNHVehicle
 {

@@ -2,6 +2,7 @@
 /// PageExtension KNH Customer Card (ID 51800) extends Record Customer Card.
 /// </summary>
 namespace KNHVehicleExt2;
+using KNHVehicle;
 
 pageextension 51800 KNHVehicleCardExt extends KNHVehicleCard
 {
